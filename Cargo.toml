@@ -1,5 +1,5 @@
 [workspace]
-members = [".", "src/macros", "examples/orderbook"]
+members = [".", "src/macros", "examples/orderbook", "examples/dcnet"]
 default-members = [".", "src/macros"]
 resolver = "2"
 

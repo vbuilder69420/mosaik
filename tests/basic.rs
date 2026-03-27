@@ -4,6 +4,7 @@
 use serde::{Deserialize, Serialize};
 
 mod collections;
+mod dcnet;
 mod discovery;
 mod groups;
 mod streams;
