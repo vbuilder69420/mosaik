@@ -6,7 +6,7 @@ export const DcNetVideo: React.FC = () => {
     <Composition
       id="DcNetDemo"
       component={DcNetDemo}
-      durationInFrames={30 * 75} // 75 seconds at 30fps
+      durationInFrames={30 * 92} // 92 seconds at 30fps
       fps={30}
       width={1920}
       height={1080}
